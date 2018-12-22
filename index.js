@@ -1,0 +1,2 @@
+var myvar = 4;
+
